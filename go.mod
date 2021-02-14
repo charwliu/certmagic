@@ -1,4 +1,4 @@
-module github.com/caddyserver/certmagic
+module go.vixal.xyz/certmagic
 
 go 1.14
 
